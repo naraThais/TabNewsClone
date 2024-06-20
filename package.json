@@ -1,0 +1,24 @@
+{
+  "name": "tabnewsclone",
+  "version": "1.0.0",
+  "description": "Tab News Clone ",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/naraThais/TabNewsClone.git"
+  },
+  "author": "Thais Nara",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/naraThais/TabNewsClone/issues"
+  },
+  "homepage": "https://github.com/naraThais/TabNewsClone#readme",
+  "dependencies": {
+    "next": "^13.1.6",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
